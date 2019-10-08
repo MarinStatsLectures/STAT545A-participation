@@ -1,10 +1,13 @@
 # STAT 545A participation
 
-Welcome to my participation repo for __STAT 545A__, offered at [The University of British Columbia](www.ubc.ca).  This repo holds all of my class work, both in-class exercises where we learn to do certain things, as well as projects and homework, etc, that I work on.
+Welcome to my participation repo for __STAT 545A__, offered at [The University of British Columbia](www.ubc.ca).  This repo holds all of my class work, both in-class exercises where we learn to do certain things, as well as projects and homework, etc, that I work on.  The [course website can be found here](https://stat545.stat.ubc.ca).
 
 ## Repo Orientation
 
-This is currently a _work in progress_, and the location of files, etc, may shift around a bit.  There is not much to explain in terms of navigation at this point. The only noteworthy  thing to point out is that you can find some [useful links here](https://github.com/MarinStatsLectures/STAT545-participation/blob/master/navigating_github.md).
+The course is broken into 14 lectures, and you can find work for each of the classes below:
+[Class01](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class01), [Class02](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class02), [Class03](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class03), [Class04](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class04), [Class05](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class05), [Class06](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class06), [Class07](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class07), [Class08](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class08), [Class09](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class09), [Class10](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class10), [Class11](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class11), [Class12](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class12), [Class13](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class13), [Class14](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class14)
+
+You can find some [useful links here](https://github.com/MarinStatsLectures/STAT545-participation/blob/master/navigating_github.md).
 
 ## Who am I?
 
