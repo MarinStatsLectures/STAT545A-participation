@@ -1,0 +1,42 @@
+---
+title: "Tibble Exploration"
+author: "Mike Marin"
+date: '2019-09-10'
+output: 
+  html_document:
+    toc: true
+    number_sections: true
+    theme: cerulean
+---
+
+# R Markdown
+
+```{r NameOfChunk, warning=FALSE, echo=FALSE}
+library(tibble)
+library(gapminder)
+library(DT)
+```
+
+
+## Print out gapminder data:
+
+```{r}
+print(gapminder)
+```
+
+<!-- this is a comment that wont show -->
+
+```{r}
+# note, the # doesnt produce a header here
+mean(gapminder$lifeExp)
+```
+
+## Making a "tibble"
+
+Convert mtcars to a "tibble", and wrap it in a datatable
+
+```{r}
+# the datatable makes it easier to do something in HTML
+datatable(as_tibble(mtcars))
+```
+
