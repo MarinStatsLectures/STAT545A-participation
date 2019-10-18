@@ -25,11 +25,21 @@ The course is broken into 14 lectures, and you can find work for each of the cla
 ### Class Participation:
 |   Date   | Links to folders  | Links to html file (or other main file)    | 
 |:---------|:-----------------:|:--------------------------------|
-| Sept 17  | [click here][Class01] | [making basic slides][301] |
-| Sept 24  | [click here][Class02] | [dplyr and basic plotting][302] |
-| Oct 3    | [click here][Class03] | [dplyr and ggplot2][303] |
-| Oct 10   | [click here][Class04] | [tidy data and joins][304] |
-| Oct 17   | [click here][Class05] | [factors and data import-export][305] |
+| Sept 3  | [Class 1][Class01] | [making basic slides][301] |
+| Sept 5  | [Class 2][Class02] | [dplyr and basic plotting][302] |
+| Sept 10    | [Class 3][Class03] | [dplyr and ggplot2][303] |
+| Sept 12   | [Class 4][Class04] | [tidy data and joins][304] |
+| Sept 17   | [Class 5][Class05] | [factors and data import-export][305] |
+| Sept 19  | [Class 6][Class06] | [making basic slides][301] |
+| Sept 24  | [Class 7][Class06] | [dplyr and basic plotting][302] |
+| Sept 26    | [Class 8][Class08] | [dplyr and ggplot2][303] |
+| Oct 1   | [Class 9][Class09] | [tidy data and joins][304] |
+| Oct 3   | [Class 10][Class10] | [factors and data import-export][305] |
+| Oct 8  | [Class 11][Class11] | [making basic slides][301] |
+| Oct 10  | [Class 12][Class12] | [dplyr and basic plotting][302] |
+| Oct 15    | [Class 13][Class13] | [dplyr and ggplot2][303] |
+| Oct 17   | [Class 14][Class14] | [tidy data and joins][304] |
+| Every Day   | [Bonus][Bonus Material] | [factors and data import-export][305] |
 
 
 [Class01]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class01>
@@ -37,7 +47,16 @@ The course is broken into 14 lectures, and you can find work for each of the cla
 [Class03]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class03> 
 [Class04]: <https://www.youtube.com/watch?v=dQw4w9WgXcQ> 
 [Class05]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class05>
-
+[Class06]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class06> 
+[Class07]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class07> 
+[Class08]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class08>
+[Class09]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class09>
+[Class10]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class10>
+[Class11]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class11>
+[Class12]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class12> 
+[Class13]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class13> 
+[Class14]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class14>
+[Bonus Material]: <https://www.youtube.com/watch?v=mxzgwJ8tSE0>
 
 
 
