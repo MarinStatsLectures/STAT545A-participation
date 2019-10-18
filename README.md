@@ -4,27 +4,13 @@ Welcome to my participation repo for __STAT 545A__, offered at [The University o
 
 ## Repo Orientation
 
-Below are links to each days activities.  Links are provided both to the folder holding all of the files for that class, as well as a link to the main product from each class.
+The class consists of 14 classes/lectures.  In most classes, we produce something in the form of participation in an activity.  This repo has a folder for each of the 14 classes, with all relevant files for that particular class in it.  For most of the classes, the end product of our participation is a RMD file that is complioed into either a pdf of an HTML document.
 
-The course is broken into 14 lectures, and you can find work for each of the classes below:
-[Class01](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class01), 
-[Class02](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class02), 
-[Class03](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class03), 
-[Class04](https://www.youtube.com/watch?v=dQw4w9WgXcQ), 
-[Class05](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class05), 
-[Class06](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class06), 
-[Class07](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class07), 
-[Class08](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class08), 
-[Class09](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class09), 
-[Class10](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class10), 
-[Class11](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class11), 
-[Class12](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class12), 
-[Class13](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class13), 
-[Class14](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class14),
-[Bonus Material](https://www.youtube.com/watch?v=mxzgwJ8tSE0)
+Below are links to each class/lecture's folder.  Links are provided both to the folder holding all of the files for that class, as well as a link to the main product from each class (most often a .pdf, .md, or an HTML file).
 
 
-### Class Participation:
+
+## Class Participation:
 |   Date   | Links to folders  | Links to html file (or other main file)    | 
 |:---------|:-----------------:|:--------------------------------|
 | Sept 3  | [Class 1][Class01] | [making basic slides][301] |
