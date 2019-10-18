@@ -4,6 +4,8 @@ Welcome to my participation repo for __STAT 545A__, offered at [The University o
 
 ## Repo Orientation
 
+Below are links to each days activities.  Links are provided both to the folder holding all of the files for that class, as well as a link to the main product from each class.
+
 The course is broken into 14 lectures, and you can find work for each of the classes below:
 [Class01](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class01), 
 [Class02](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class02), 
