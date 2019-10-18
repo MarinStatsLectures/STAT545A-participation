@@ -18,7 +18,28 @@ The course is broken into 14 lectures, and you can find work for each of the cla
 [Class11](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class11), 
 [Class12](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class12), 
 [Class13](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class13), 
-[Class14](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class14)
+[Class14](https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class14),
+[Bonus Material](https://www.youtube.com/watch?v=mxzgwJ8tSE0)
+
+
+### Class Participation:
+|   Date   | Links to folders  | Links to html file (or other main file)    | 
+|:---------|:-----------------:|:--------------------------------|
+| Sept 17  | [click here][Class01] | [making basic slides][301] |
+| Sept 24  | [click here][Class02] | [dplyr and basic plotting][302] |
+| Oct 3    | [click here][Class03] | [dplyr and ggplot2][303] |
+| Oct 10   | [click here][Class04] | [tidy data and joins][304] |
+| Oct 17   | [click here][Class05] | [factors and data import-export][305] |
+
+
+[Class01]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class01>
+[Class02]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class02> 
+[Class03]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class03> 
+[Class04]: <https://www.youtube.com/watch?v=dQw4w9WgXcQ> 
+[Class05]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class05>
+
+
+
 
 You can find some [useful links here](https://github.com/MarinStatsLectures/STAT545-participation/blob/master/navigating_github.md).
 
