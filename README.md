@@ -15,7 +15,7 @@ Below are links to each class/lecture's folder.  Links are provided both to the 
 |:---------|:-----------------:|:--------------------------------|
 | Sept 3  | [Class 1][Class01] | [Navigating Github PDF][DOC1] |
 | Sept 5  | [Class 2][Class02] | [Intro to R][DOC2] |
-| Sept 10    | [Class 3][Class03] | [Authoring Documents][DOC3] [Authoring Slides][DOC3b] |
+| Sept 10    | [Class 3][Class03] | [Authoring Documents][DOC3] , [Authoring Slides][DOC3b] |
 | Sept 12   | [Class 4][Class04] | [Version Control Flow][DOC4] |
 | Sept 17   | [Class 5][Class05] | [Intro ggplot2 PArt I][DOC5] |
 | Sept 19  | [Class 6][Class06] | [Intro Data Wrangling Part I][DOC6] |
@@ -48,7 +48,7 @@ Below are links to each class/lecture's folder.  Links are provided both to the 
 
 [DOC1]: <https://github.com/MarinStatsLectures/STAT545A-participation/blob/master/Class01/navigating_github.pdf>
 [DOC2]: <https://github.com/MarinStatsLectures/STAT545A-participation/blob/master/Class02/Lecture%202%20Script.R>
-[DOC3]: <https://marinmtatslectures.github.io/STAT545A-participation/tree/master/Class03/RMD_Exploration.html>
+[DOC3]: <https://marinstatslectures.github.io/STAT545A-participation/tree/master/Class03/RMD_Exploration.html>
 [DOC3b]: <[Authoring][DOC3]/tree/master/Class03/RMD-Exploration-Slides.html>
 
 ## Who am I?
