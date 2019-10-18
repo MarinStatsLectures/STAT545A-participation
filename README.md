@@ -13,21 +13,21 @@ Below are links to each class/lecture's folder.  Links are provided both to the 
 ## Class Participation:
 |   Date   | Links to folders  | Links to html file (or other main file)    | 
 |:---------|:-----------------:|:--------------------------------|
-| Sept 3  | [Class 1][Class01] | [making basic slides][301] |
-| Sept 5  | [Class 2][Class02] | [dplyr and basic plotting][302] |
-| Sept 10    | [Class 3][Class03] | [dplyr and ggplot2][303] |
-| Sept 12   | [Class 4][Class04] | [tidy data and joins][304] |
-| Sept 17   | [Class 5][Class05] | [factors and data import-export][305] |
-| Sept 19  | [Class 6][Class06] | [making basic slides][301] |
-| Sept 24  | [Class 7][Class06] | [dplyr and basic plotting][302] |
-| Sept 26    | [Class 8][Class08] | [dplyr and ggplot2][303] |
-| Oct 1   | [Class 9][Class09] | [tidy data and joins][304] |
-| Oct 3   | [Class 10][Class10] | [factors and data import-export][305] |
-| Oct 8  | [Class 11][Class11] | [making basic slides][301] |
-| Oct 10  | [Class 12][Class12] | [dplyr and basic plotting][302] |
-| Oct 15    | [Class 13][Class13] | [dplyr and ggplot2][303] |
-| Oct 17   | [Class 14][Class14] | [tidy data and joins][304] |
-| Every Day   | [Bonus][Bonus Material] | [factors and data import-export][305] |
+| Sept 3  | [Class 1][Class01] | [Navigating Github PDF][DOC1] |
+| Sept 5  | [Class 2][Class02] | [Intro to R][DOC2] |
+| Sept 10    | [Class 3][Class03] | [Authoring][DOC3] |
+| Sept 12   | [Class 4][Class04] | [Version Control Flow][DOC4] |
+| Sept 17   | [Class 5][Class05] | [Intro ggplot2 PArt I][DOC5] |
+| Sept 19  | [Class 6][Class06] | [Intro Data Wrangling Part I][DOC6] |
+| Sept 24  | [Class 7][Class06] | [Intro Data Wrangling Part II][DOC7] |
+| Sept 26    | [Class 8][Class08] | [Intro ggplot2 Part II][DOC8] |
+| Oct 1   | [Class 9][Class09] | [Tidy Data and Pivoting][DOC9] |
+| Oct 3   | [Class 10][Class10] | [Table Joins][DOC10] |
+| Oct 8  | [Class 11][Class11] | [File Input/Output][DOC11] |
+| Oct 10  | [Class 12][Class12] | [Working with Factors][DOC12] |
+| Oct 15    | [Class 13][Class13] | [Effective Visualization][DOC13] |
+| Oct 17   | [Class 14][Class14] | [ModelFitting Paradigm][DOC14] |
+| Every Day   | [Bonus][Bonus Material] | [Bonus][Bonus Material] |
 
 
 [Class01]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class01>
@@ -46,9 +46,9 @@ Below are links to each class/lecture's folder.  Links are provided both to the 
 [Class14]: <https://github.com/MarinStatsLectures/STAT545A-participation/tree/master/Class14>
 [Bonus Material]: <https://www.youtube.com/watch?v=mxzgwJ8tSE0>
 
+[DOC1]: <https://github.com/MarinStatsLectures/STAT545A-participation/blob/master/Class01/navigating_github.pdf>
+[DOC2]: <https://github.com/MarinStatsLectures/STAT545A-participation/blob/master/Class02/Lecture%202%20Script.R>
 
-
-You can find some [useful links here](https://github.com/MarinStatsLectures/STAT545-participation/blob/master/navigating_github.md).
 
 ## Who am I?
 
@@ -67,6 +67,9 @@ One piece of adivce I will give for work/career (and this is partly to make use 
 - Find out what you can get paid for
 
 If you can find something that covers all 3 of these simultaneously, you will have a great work-life!
+
+You can find some [useful links here](https://github.com/MarinStatsLectures/STAT545-participation/blob/master/navigating_github.md).
+
 
 #### One of my favorite pics to use my classes
 
