@@ -49,7 +49,8 @@ Below are links to each class/lecture's folder.  Links are provided both to the 
 [DOC1]: <https://github.com/MarinStatsLectures/STAT545A-participation/blob/master/Class01/navigating_github.pdf>
 [DOC2]: <https://github.com/MarinStatsLectures/STAT545A-participation/blob/master/Class02/Lecture%202%20Script.R>
 [DOC3]: <https://marinstatslectures.github.io/STAT545A-participation/tree/master/Class03/RMD_Exploration.html>
-[DOC3b]: <[Authoring][DOC3]/tree/master/Class03/RMD-Exploration-Slides.html>
+[DOC3b]: <https://marinstatslectures.github.io/STAT545A-participation/Class03/RMD-Exploration-Slides.html>
+
 
 ## Who am I?
 
