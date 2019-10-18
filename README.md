@@ -22,7 +22,7 @@ Below are links to each class/lecture's folder.  Links are provided both to the 
 | Sept 24  | [Class 7][Class06] | [Intro Data Wrangling Part II][DOC7] |
 | Sept 26    | [Class 8][Class08] | [Intro ggplot2 Part II][DOC8] |
 | Oct 1   | [Class 9][Class09] | [Tidy Data and Pivoting][DOC9] |
-| Oct 3   | [Class 10][Class10] | [Table Joins][DOC10] |
+| Oct 3   | [Class 10][Class10] | [Table Joins][DOC10] *had trouble compiling, so linking to .RMD file* |
 | Oct 8  | [Class 11][Class11] | [File Input/Output][DOC11] |
 | Oct 10  | [Class 12][Class12] | [Working with Factors][DOC12] |
 | Oct 15    | [Class 13][Class13] | [Effective Visualization][DOC13] |
@@ -55,7 +55,7 @@ Below are links to each class/lecture's folder.  Links are provided both to the 
 [DOC7]: <https://marinstatslectures.github.io/STAT545A-participation/Class07/class_7_worksheet.html>
 [DOC8]: <https://marinstatslectures.github.io/STAT545A-participation/Class08/class_8_worksheet.html>
 [DOC9]: <https://marinstatslectures.github.io/STAT545A-participation/Class09/class_9_worksheet.html>
-[DOC10]: <https://marinstatslectures.github.io/STAT545A-participation/Class10/Class_10_worksheet.html>
+[DOC10]: <https://github.com/MarinStatsLectures/STAT545A-participation/blob/master/Class10/Class_10_worksheet.Rmd>
 [DOC11]: <https://github.com/MarinStatsLectures/STAT545A-participation/blob/master/Class11/Lecture%2011%20script.R>
 [DOC12]: <https://marinstatslectures.github.io/STAT545A-participation/Class12/Class_12_worksheet.html>
 [DOC13]: <https://marinstatslectures.github.io/STAT545A-participation/Class13/Class-_13_worksheet.html>
