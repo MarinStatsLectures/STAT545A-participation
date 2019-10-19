@@ -16,7 +16,7 @@ Below are links to each class/lecture's folder.  Links are provided both to the 
 | Sept 3  | [Class 1][Class01] | [Navigating Github PDF][DOC1] |
 | Sept 5  | [Class 2][Class02] | [Intro to R][DOC2] |
 | Sept 10    | [Class 3][Class03] | [Authoring Documents][DOC3] , [Authoring Slides][DOC3b] |
-| Sept 12   | [Class 4][Class04] | [Version Control Flow][DOC4] |
+| Sept 12   | [Class 4][Class04] | *Nothing to link to here* |
 | Sept 17   | [Class 5][Class05] | [Intro ggplot2 PArt I][DOC5] |
 | Sept 19  | [Class 6][Class06] | [Intro Data Wrangling Part I][DOC6] |
 | Sept 24  | [Class 7][Class06] | [Intro Data Wrangling Part II][DOC7] |
