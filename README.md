@@ -59,7 +59,7 @@ Below are links to each class/lecture's folder.  Links are provided both to the 
 [DOC11]: <https://github.com/MarinStatsLectures/STAT545A-participation/blob/master/Class11/Lecture%2011%20script.R>
 [DOC12]: <https://marinstatslectures.github.io/STAT545A-participation/Class12/Class_12_worksheet.html>
 [DOC13]: <https://marinstatslectures.github.io/STAT545A-participation/Class13/Class-_13_worksheet.html>
-[DOC14]: <https://marinstatslectures.github.io/STAT545A-participation/Class14/Class_14_worksheet.html>
+[DOC14]: <https://marinstatslectures.github.io/STAT545A-participation/Class14/class_14_worksheet.html>
 
 
 ## Who am I?
